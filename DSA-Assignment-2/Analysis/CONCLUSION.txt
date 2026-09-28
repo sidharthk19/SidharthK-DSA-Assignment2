@@ -1,0 +1,14 @@
+CONCLUSION
+
+The identification numbers were successfully organized using a
+Binary Search Tree. The inorder traversal produced the keys in
+lexicographical order.
+
+For the selected searches, BST Search required fewer comparisons
+than Linear Search. However, the performance of an ordinary BST
+depends on the insertion order. An unfavorable insertion order can
+produce a skewed tree and increase the search time to O(n).
+
+As the database grows, a self-balancing BST such as an AVL Tree or
+Red-Black Tree can maintain a height close to O(log n), providing
+more consistent search performance.

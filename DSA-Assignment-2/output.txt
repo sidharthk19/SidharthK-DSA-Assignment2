@@ -1,0 +1,2 @@
+Inorder traversal:
+A102 A120 A25 A45 A7 B100 B12 B3

@@ -1,0 +1,15 @@
+QUESTION 11 - COMPARISON TABLE
+
+Search Key    BST Comparisons    Linear Comparisons
+----------------------------------------------------
+A120          3                  6
+B3            6                  7
+C1            4                  8
+
+General Comparison
+----------------------------------------------------
+Feature              BST              Linear Search
+Search Average       O(log n)         O(n)
+Search Worst Case    O(n)            O(n)
+Insertion Order      Affects shape    Does not affect
+Data Structure       Tree             Array/List

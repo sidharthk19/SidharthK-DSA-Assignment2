@@ -1,0 +1,27 @@
+QUESTION 11 - COMPLEXITY ANALYSIS
+
+BST Search:
+Best/Average Case: O(log n)
+Worst Case: O(n)
+
+Linear Search:
+Best Case: O(1)
+Average Case: O(n)
+Worst Case: O(n)
+
+BST Insertion:
+Best/Average Case: O(log n)
+Worst Case: O(n)
+
+Space Complexity:
+BST: O(n)
+Linear Search: O(1) auxiliary space
+
+For string keys, the actual comparison cost also depends on
+the length of the identification number.
+
+If L is the maximum key length:
+
+Balanced BST Search: O(L log n)
+Worst-case BST Search: O(Ln)
+Linear Search: O(Ln)
